@@ -1,6 +1,6 @@
 Import the .export to your e!cockpit project
 
-Required libraries
+Required libraries:
 - CmpBitmapPool
 - Standard
 - Util
