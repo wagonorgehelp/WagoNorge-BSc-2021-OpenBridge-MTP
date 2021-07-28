@@ -31,7 +31,7 @@ Programming languages:
 1. Configuration -> Networking -> TCP/IP Cofiguration
       - IP Source: Static IP
       - Set an IP address and Subnet Mask that is accessible and corresponds with the local network router. 
-      - Manually assign a DNS server. e.g: 8.8.8.8 
+      - Manually assign a DNS server. e.g: 8.8.8.8 (can be skipped if a DNS-server routing is setup in the router)
 2. ... -> ... -> Routing
       - IP Forwarding through multiple interfaces: Enabled
       - Default Static Routes. Set it up with the router. 
