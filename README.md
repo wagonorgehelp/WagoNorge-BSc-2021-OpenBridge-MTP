@@ -1,4 +1,4 @@
-https://github.com/wagonorgehelp/WagoNorge-BSc-2021-OpenBridge-MTP
+
 
 # WagoNorge B.Sc 2021 OpenBridge MTP
 This repository contains a revised version and a detailed installation guide of a bachelor written for Wago Norge the spring of 2021. 
@@ -8,7 +8,9 @@ Credits to the original authors:
    - Eskil G. Gaustad
    - Ørjan Pettersen
    - Frode Kvalnes
-    
+
+Original repository: https://github.com/Wago-Bachelor/Bachelorproject-2021
+
 ## Info
 The repository contains:
    - A e!COCKPIT program that simulates the dynamics of ship. And a visialization with simple controlls. 
