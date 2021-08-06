@@ -9,6 +9,9 @@ Credits to the original authors:
    - Ørjan Pettersen
    - Frode Kvalnes
 
+
+
+
 Original repository: https://github.com/Wago-Bachelor/Bachelorproject-2021
 
 ## Info
