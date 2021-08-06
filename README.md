@@ -10,9 +10,10 @@ Credits to the original authors:
    - Frode Kvalnes
 
 
-
-
 Original repository: https://github.com/Wago-Bachelor/Bachelorproject-2021
+
+Revived by:
+   - Victor Shaw Melhuus 
 
 ## Info
 The repository contains:
